@@ -2,6 +2,7 @@
 > 38.9% ↑ Customer Satisfaction | 43.3% ↓ Resolution Time | 210 Tickets Analyzed
 
 [![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZGFhZjc2NjAtMGYzNC00YmE0LWIzOWItNzE4YzgzZmQyNGE0IiwidCI6IjU4ZTMxMjU3LWY3N2YtNGQ1OC05NzA1LWQwYjZlYTBmOWVlNCIsImMiOjh9)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Sv4fHdrlcADjUauq258pngfTZU5dp7em?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ake-marc-albert-adje-5b341a110)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_More-4285F4?style=for-the-badge)](https://datascienceportfol.io/akemarcpt)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
