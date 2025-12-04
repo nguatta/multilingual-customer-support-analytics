@@ -1,20 +1,20 @@
  🌍 Multilingual Customer Support Analytics
-> 31% ↑ Customer Satisfaction | 30% ↓ Resolution Time | 210+ Tickets Analyzed
+> 38.9% ↑ Customer Satisfaction | 43.3% ↓ Resolution Time | 210 Tickets Analyzed
 
-[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi)](https://github.com/nguatta/multilingual-customer-support-analytics)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/ake-marc-albert-adje-5b341a110)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_More-4285F4)](https://datascienceportfol.io/akemarcpt)
-[![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-PostgreSQL-316192?logo=postgresql)](https://www.postgresql.org/)
+[![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZGFhZjc2NjAtMGYzNC00YmE0LWIzOWItNzE4YzgzZmQyNGE0IiwidCI6IjU4ZTMxMjU3LWY3N2YtNGQ1OC05NzA1LWQwYjZlYTBmOWVlNCIsImMiOjh9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ake-marc-albert-adje-5b341a110)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_More-4285F4?style=for-the-badge)](https://datascienceportfol.io/akemarcpt)
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 
 
  📊 Project Overview
 
-Companies operating in multilingual markets struggle to optimize customer satisfaction due to inefficient language pairing between agents and customers. This project analyzes 210+ support tickets across 5 languages to quantify the business impact of language matching.
+Companies operating in multilingual markets struggle to optimize customer satisfaction due to inefficient language pairing between agents and customers. This project analyzes 210 support tickets across 6 languages to quantify the business impact of language matching.
 
  🎯 Key Finding
-Matching customer-agent languages increases satisfaction by 31% and reduces resolution time by 30% — translating to significant cost savings and improved customer experience.
+Matching customer-agent languages increases satisfaction by 38.9% and reduces resolution time by 43.3% — translating to significant cost savings and improved customer experience.
 
 
 
@@ -30,70 +30,82 @@ Matching customer-agent languages increases satisfaction by 31% and reduces reso
  📈 Key Results
 
 | Metric | Language Match | No Match | Impact |
-||-|-||
-| Satisfaction Score | 4.5/5.0 | 3.4/5.0 | +31% ✅ |
-| Resolution Time | 3.2 hours | 4.6 hours | -30% ✅ |
-| First Contact Resolution | 87% | 62% | +25% ✅ |
-| Ticket Volume | 210+ tickets | 5 languages | EU + Americas |
+|||-||
+| Satisfaction Score | 4.52/5.0 | 3.25/5.0 | +38.9% ✅ |
+| Resolution Time | 78.8 hours | 112.9 hours | -43.3% ✅ |
+| Avg Resolution (Overall) | 99.26 hours | — | Baseline |
+| Ticket Volume | 210 tickets | 6 languages | EU + Americas |
+
+
 
  💰 Business Impact
+
 - €50K+ potential annual savings through optimized agent scheduling
 - 15% expected CSAT increase with intelligent language routing
 - 20% reduction in operational costs via faster resolution times
+- 43% faster resolution when language matched
 
 
 
  🛠️ Technical Stack
 
-- Database: PostgreSQL / SQLite
-- Analysis: Python 3.11 (Pandas, NumPy, SciPy)
-- Visualization: Power BI Desktop, Matplotlib, Seaborn
-- Version Control: Git/GitHub
-- Tools: Jupyter Notebook, VS Code
+Database: PostgreSQL / SQLite  
+Analysis: Python 3.11 (Pandas, NumPy, SciPy)  
+Visualization: Power BI Desktop, Matplotlib, Seaborn  
+Version Control: Git/GitHub  
+Tools: Jupyter Notebook, VS Code
 
 
-🚀 Key Insights
 
-1. Language Matching Drives Satisfaction
-Customers served in their native language rate satisfaction 31% higher (4.5 vs 3.4 out of 5.0). Statistical analysis confirms significance (p < 0.01).
+ 🚀 Key Insights
 
-2. Resolution Efficiency Gains
-Language-matched tickets resolve 30% faster (3.2h vs 4.6h), reducing agent workload and improving customer experience.
+ 1. Language Matching Drives Satisfaction
+Customers served in their native language rate satisfaction 38.9% higher (4.52 vs 3.25 out of 5.0). Statistical analysis confirms significance (p < 0.01).
 
-3. Regional Distribution Patterns
-- Europe: 97% of tickets (EN 42%, ES 18%, FR 15%, DE 12%, IT 10%)
+ 2. Resolution Efficiency Gains
+Language-matched tickets resolve 43.3% faster (78.8h vs 112.9h), reducing agent workload and improving customer experience.
+
+ 3. Regional Distribution Patterns
+- Europe: 97% of tickets
+  - EN: 39.5% | ES: 23.3% | DE: 14.8% | FR: 13.3% | PT: 8.1% | IT: 1.0%
 - Americas: 3% of tickets
 
-4. First Contact Resolution Impact
-Language matching increases first-contact resolution from 62% to 87% (+25 percentage points).
+ 4. Issue Type Distribution
+- Software Issues: 71.9% of tickets
+- Other Issues: 28.1% of tickets
 
 
-💡 Business Recommendations
 
-1. Implement Intelligent Ticket Routing
+ 💡 Business Recommendations
+
+ 1. Implement Intelligent Ticket Routing
 Deploy AI-based system matching customer language preferences with agent capabilities automatically.
 
 Expected ROI: 15% CSAT increase, 20% cost reduction
 
-2. Strategic Hiring Priorities
-Focus recruitment on high-volume languages: English (42%),Spanish (18%),French (15%)
+ 2. Strategic Hiring Priorities
+Focus recruitment on high-volume languages:
+- English (39.5%) - Primary focus
+- Spanish (23.3%) - Secondary priority
+- German (14.8%) & French (13.3%) - Tertiary focus
 
 Expected Impact: 80% language match coverage
 
-3. Language Training Investment
+ 3. Language Training Investment
 Prioritize training programs for agents to cover secondary languages based on ticket distribution.
 
-4. Performance Metrics Update
+ 4. Performance Metrics Update
 Add "Language Match Rate" as core KPI for customer support team evaluation.
 
 
-📁 Project Structure
+
+ 📁 Project Structure
 
 multilingual-customer-support-analytics/
 ├── data/
-│ ├── raw/ # Original 210+ ticket dataset
-│ ├── processed/ # Cleaned data with language flags
-│ └── data_dictionary.md # Column definitions
+│ ├── raw/  Original 210 ticket dataset (CSV)
+│ ├── processed/  Cleaned data with language flags
+│ └── data_dictionary.md  Column definitions
 ├── sql/
 │ ├── 01_data_cleaning.sql
 │ ├── 02_language_analysis.sql
@@ -103,12 +115,14 @@ multilingual-customer-support-analytics/
 │ ├── statistical_tests.py
 │ └── requirements.txt
 ├── dashboards/
-│ ├── multilingual_support_analysis.pbix
-│ └── screenshots/ # Dashboard previews
+│ ├── multilingual_support_dashboard.pbix  Power BI file
+│ └── screenshots/  Dashboard previews
 ├── documentation/
 │ ├── methodology.md
 │ └── insights_report.pdf
 └── README.md
+
+
 
 
 
@@ -117,38 +131,40 @@ multilingual-customer-support-analytics/
  Prerequisites
 - Python 3.11+
 - Power BI Desktop (free)
-- PostgreSQL or SQLite
+- PostgreSQL or SQLite (optional)
 
  Setup Instructions
+
 1. Clone repository
 git clone https://github.com/nguatta/multilingual-customer-support-analytics.git
 cd multilingual-customer-support-analytics
 
+
+
 2. Install Python dependencies
 pip install -r python/requirements.txt
+
+
 
 3. Run analysis notebook
 jupyter notebook python/exploratory_analysis.ipynb
 
-4. Open Power BI dashboard
-Open dashboards/multilingual_support_analysis.pbix in Power BI Desktop
 
+
+4. Open Power BI dashboard
+- Open `dashboards/multilingual_support_dashboard.pbix` in Power BI Desktop
+- OR [View live dashboard online](https://app.powerbi.com/view?r=eyJrIjoiZGFhZjc2NjAtMGYzNC00YmE0LWIzOWItNzE4YzgzZmQyNGE0IiwidCI6IjU4ZTMxMjU3LWY3N2YtNGQ1OC05NzA1LWQwYjZlYTBmOWVlNCIsImMiOjh9)
 
 
 
  🧩 Challenges & Solutions
 
  Challenge 1: Inconsistent Language Coding
-Problem: Tickets used mixed formats (EN/en/English/ENG/Inglês)  
-Solution: Created standardization script mapping 15+ variants to ISO 639-1 codes  
+Problem: Tickets used mixed formats (EN/en/English/ENG)  
+Solution: Created standardization script mapping variants to ISO 639-1 codes  
 Learning: Importance of data dictionary establishment early in project lifecycle
 
- Challenge 2: Missing Agent Language Data
-Problem: 23% of tickets lacked agent language information  
-Solution: Inferred from agent_id using historical patterns (92% accuracy validation)  
-Tool Used: Python fuzzy matching with `fuzzywuzzy` library
-
- Challenge 3: Statistical Significance Validation
+ Challenge 2: Statistical Significance Validation
 Problem: Needed to prove findings weren't due to random chance  
 Solution: Performed two-sample t-tests (p < 0.01) and 95% confidence intervals  
 Result: Confirmed language matching effect is statistically significant
@@ -160,12 +176,14 @@ Result: Confirmed language matching effect is statistically significant
  SQL Analysis Example
  Calculate satisfaction by language match status
 SELECT
-CASE WHEN customer_lang = agent_lang THEN 'Matched'
-ELSE 'Not Matched' END AS match_status,
-AVG(satisfaction_score) AS avg_satisfaction,
-AVG(resolution_hours) AS avg_resolution_time,
+CASE
+WHEN Language_Match = TRUE THEN 'Matched'
+ELSE 'Not Matched'
+END AS match_status,
+AVG(Satisfaction) AS avg_satisfaction,
+AVG(Resolution_Time) AS avg_resolution_time,
 COUNT(*) AS ticket_count
-FROM support_tickets
+FROM multilingual_support_tickets
 GROUP BY match_status;
 
 
@@ -173,8 +191,8 @@ GROUP BY match_status;
  Python Statistical Testing
 from scipy.stats import ttest_ind
 
-matched = df[df['lang_match'] == True]['satisfaction']
-unmatched = df[df['lang_match'] == False]['satisfaction']
+matched = df[df['Language_Match'] == True]['Satisfaction']
+unmatched = df[df['Language_Match'] == False]['Satisfaction']
 
 t_stat, p_value = ttest_ind(matched, unmatched)
 print(f"Statistical significance: p-value = {p_value:.4f}")
@@ -195,12 +213,14 @@ Goal: Demonstrate end-to-end analytics capabilities: SQL → Python → Power BI
 - ✅ IBM Data Analyst Professional Certificate (2025)
 - ✅ Microsoft Power BI Data Analyst Professional Certificate (2025)
 
+
+
  🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ake_Marc_Albert_Adje-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ake-marc-albert-adje-5b341a110)
-[![Email](https://img.shields.io/badge/Email-akemarcpt@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:akemarcpt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ake_Marc_Albert_Adje-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ake-marc-albert-adje-5b341a110)
+[![Email](https://img.shields.io/badge/Email-akemarcpt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akemarcpt@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_All_Projects-4285F4?style=for-the-badge)](https://datascienceportfol.io/akemarcpt)
-[![GitHub](https://img.shields.io/badge/GitHub-@nguatta-181717?style=for-the-badge&logo=github)](https://github.com/nguatta)
+[![GitHub](https://img.shields.io/badge/GitHub-@nguatta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguatta)
 
 
 
@@ -215,6 +235,7 @@ If this analysis provided value or insights for your work, please star this repo
  📜 License
 This project is available under the MIT License. See LICENSE file for details.
 
+
+
  🔖 Keywords
 `data-analytics` `power-bi` `sql` `python` `customer-support` `multilingual` `business-intelligence` `portfolio-project` `customer-satisfaction` `data-visualization`
-
