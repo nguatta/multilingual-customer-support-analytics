@@ -1,0 +1,211 @@
+Ticket_id,Customer_Language,Agent_languages,Satisfaction,Resolution_Time,Category_Issue,Issue_Type,Region,Priority,Language_Match,Subject,Description
+T001,fr,it;fr,4.2,65.6,Other,Other,Europe,1,True,Security Concern,Support ticket for security concern
+T002,en,es;it,3.3,95.9,Employee Inquiries-IT Support,Software,Europe,1,False,Hardware Problem,Support ticket for hardware problem
+T003,es,en;es;de,4.3,66.2,Employee Inquiries-IT Support,Software,Europe,1,True,Email Setup,Support ticket for email setup
+T004,en,pt;fr;en,4.7,81.4,Employee Inquiries-IT Support,Software,Americas,1,True,Data Recovery,Support ticket for data recovery
+T005,es,en;es,4.8,99.4,Other,Other,Europe,1,True,Integration Problem,Support ticket for integration problem
+T006,fr,es;fr;pt,4.2,70.7,Employee Inquiries-IT Support,Software,Europe,2,True,System Error,Support ticket for system error
+T007,es,es;de,4.4,99.6,Employee Inquiries-IT Support,Software,Europe,2,True,Software Install,Support ticket for software install
+T008,en,fr;de,2.9,102.4,Other,Other,Europe,1,False,Update Request,Support ticket for update request
+T009,en,es;fr;it,2.9,114.6,Employee Inquiries-IT Support,Software,Europe,2,False,Performance Issue,Support ticket for performance issue
+T010,en,pt;de,2.6,96.6,Employee Inquiries-IT Support,Software,Europe,2,False,Security Concern,Support ticket for security concern
+T011,es,de;pt;it,3.3,129.0,Employee Inquiries-IT Support,Software,Europe,2,False,Billing Question,Support ticket for billing question
+T012,de,en;fr;de,4.2,60.1,Other,Other,Europe,2,True,System Error,Support ticket for system error
+T013,es,it;fr,3.8,112.8,Employee Inquiries-IT Support,Software,Europe,1,False,Password Reset,Support ticket for password reset
+T014,es,en;it;fr,3.8,124.1,Employee Inquiries-IT Support,Software,Europe,2,False,VPN Access,Support ticket for vpn access
+T015,en,en;pt;es,4.1,79.0,Employee Inquiries-IT Support,Software,Europe,2,True,Security Concern,Support ticket for security concern
+T016,pt,it;fr,3.1,118.5,Other,Other,Europe,1,False,Hardware Problem,Support ticket for hardware problem
+T017,en,en;pt;es,4.6,60.3,Employee Inquiries-IT Support,Software,Europe,1,True,Software Install,Support ticket for software install
+T018,de,pt;es,2.9,112.0,Other,Other,Europe,2,False,Update Request,Support ticket for update request
+T019,en,de;es;en,4.1,77.2,Employee Inquiries-IT Support,Software,Europe,2,True,Email Setup,Support ticket for email setup
+T020,en,en;es;pt,4.2,77.9,Employee Inquiries-IT Support,Software,Europe,1,True,VPN Access,Support ticket for vpn access
+T021,es,en;pt,3.8,128.9,Other,Other,Europe,1,False,Update Request,Support ticket for update request
+T022,es,en;es;de,4.0,75.6,Other,Other,Europe,1,True,Update Request,Support ticket for update request
+T023,en,es;en;pt,4.7,62.3,Employee Inquiries-IT Support,Software,Europe,2,True,System Error,Support ticket for system error
+T024,en,es;en,4.6,87.0,Employee Inquiries-IT Support,Software,Europe,2,True,Hardware Problem,Support ticket for hardware problem
+T025,es,pt;en,3.1,115.4,Other,Other,Europe,1,False,License Activation,Support ticket for license activation
+T026,en,es;fr;de,3.0,121.3,Employee Inquiries-IT Support,Software,Europe,2,False,Email Setup,Support ticket for email setup
+T027,en,pt;fr,2.7,107.2,Employee Inquiries-IT Support,Software,Europe,1,False,Integration Problem,Support ticket for integration problem
+T028,de,pt;it;en,3.5,114.4,Employee Inquiries-IT Support,Software,Europe,2,False,Billing Question,Support ticket for billing question
+T029,en,it;pt,2.7,104.9,Employee Inquiries-IT Support,Software,Europe,2,False,Billing Question,Support ticket for billing question
+T030,es,en;it;de,3.7,96.5,Employee Inquiries-IT Support,Software,Europe,2,False,System Error,Support ticket for system error
+T031,fr,pt;en;it,2.6,125.9,Employee Inquiries-IT Support,Software,Europe,2,False,Account Access,Support ticket for account access
+T032,es,fr;it,3.8,122.9,Other,Other,Europe,1,False,Hardware Problem,Support ticket for hardware problem
+T033,fr,pt;de;es,3.9,103.3,Other,Other,Europe,1,False,Security Concern,Support ticket for security concern
+T034,en,de;es;fr,2.7,119.5,Employee Inquiries-IT Support,Software,Europe,1,False,Network Issue,Support ticket for network issue
+T035,de,fr;it;es,2.8,118.1,Employee Inquiries-IT Support,Software,Europe,1,False,Billing Question,Support ticket for billing question
+T036,en,it;pt;fr,3.9,99.0,Employee Inquiries-IT Support,Software,Americas,2,False,Billing Question,Support ticket for billing question
+T037,en,fr;it;de,3.4,112.9,Employee Inquiries-IT Support,Software,Europe,1,False,Security Concern,Support ticket for security concern
+T038,en,fr;de,2.6,118.2,Employee Inquiries-IT Support,Software,Europe,2,False,General Query,Support ticket for general query
+T039,es,fr;de;it,3.3,101.7,Employee Inquiries-IT Support,Software,Europe,2,False,System Error,Support ticket for system error
+T040,fr,de;pt;en,3.0,102.4,Employee Inquiries-IT Support,Software,Europe,1,False,Integration Problem,Support ticket for integration problem
+T041,es,pt;de,3.7,128.6,Employee Inquiries-IT Support,Software,Europe,1,False,License Activation,Support ticket for license activation
+T042,en,it;fr,2.8,102.0,Employee Inquiries-IT Support,Software,Europe,1,False,VPN Access,Support ticket for vpn access
+T043,es,it;de,3.2,103.5,Employee Inquiries-IT Support,Software,Europe,2,False,Email Setup,Support ticket for email setup
+T044,de,es;pt,3.2,114.5,Employee Inquiries-IT Support,Software,Europe,1,False,Integration Problem,Support ticket for integration problem
+T045,fr,de;pt;it,3.7,114.2,Other,Other,Europe,1,False,Billing Question,Support ticket for billing question
+T046,de,pt;de;es,4.3,63.1,Employee Inquiries-IT Support,Software,Europe,1,True,VPN Access,Support ticket for vpn access
+T047,en,de;es,3.6,97.2,Employee Inquiries-IT Support,Software,Europe,1,False,Network Issue,Support ticket for network issue
+T048,de,pt;en;de,4.5,97.7,Employee Inquiries-IT Support,Software,Europe,2,True,Security Concern,Support ticket for security concern
+T049,es,de;es,4.3,79.4,Employee Inquiries-IT Support,Software,Europe,2,True,System Error,Support ticket for system error
+T050,de,pt;it,2.5,108.8,Employee Inquiries-IT Support,Software,Europe,2,False,Account Access,Support ticket for account access
+T051,de,en;fr,3.1,102.4,Other,Other,Europe,1,False,Security Concern,Support ticket for security concern
+T052,en,de;en,4.7,62.1,Employee Inquiries-IT Support,Software,Europe,1,True,Software Install,Support ticket for software install
+T053,de,es;en,3.4,103.3,Employee Inquiries-IT Support,Software,Europe,2,False,Integration Problem,Support ticket for integration problem
+T054,fr,es;pt;en,3.7,100.7,Employee Inquiries-IT Support,Software,Europe,2,False,Performance Issue,Support ticket for performance issue
+T055,en,en;pt,4.7,85.1,Other,Other,Europe,2,True,Email Setup,Support ticket for email setup
+T056,de,fr;pt,3.1,108.0,Employee Inquiries-IT Support,Software,Europe,2,False,Update Request,Support ticket for update request
+T057,en,it;de;es,3.2,120.7,Employee Inquiries-IT Support,Software,Europe,2,False,Update Request,Support ticket for update request
+T058,es,fr;es;en,4.3,78.0,Employee Inquiries-IT Support,Software,Europe,2,True,License Activation,Support ticket for license activation
+T059,en,es;de;it,3.0,104.0,Employee Inquiries-IT Support,Software,Europe,2,False,Password Reset,Support ticket for password reset
+T060,es,en;es,4.7,79.5,Other,Other,Europe,2,True,Update Request,Support ticket for update request
+T061,es,en;fr,2.8,119.2,Employee Inquiries-IT Support,Software,Europe,1,False,Data Recovery,Support ticket for data recovery
+T062,es,fr;de;it,3.0,103.1,Employee Inquiries-IT Support,Software,Europe,2,False,System Error,Support ticket for system error
+T063,en,fr;pt;it,4.0,124.1,Employee Inquiries-IT Support,Software,Europe,1,False,Account Access,Support ticket for account access
+T064,en,pt;fr,3.5,99.4,Employee Inquiries-IT Support,Software,Europe,2,False,General Query,Support ticket for general query
+T065,es,fr;es;en,4.3,94.5,Employee Inquiries-IT Support,Software,Europe,1,True,Software Install,Support ticket for software install
+T066,en,en;es;it,4.6,76.6,Employee Inquiries-IT Support,Software,Europe,2,True,Performance Issue,Support ticket for performance issue
+T067,es,fr;pt;de,3.0,116.7,Other,Other,Europe,2,False,Network Issue,Support ticket for network issue
+T068,fr,it;en;es,2.9,114.3,Employee Inquiries-IT Support,Software,Europe,2,False,Update Request,Support ticket for update request
+T069,en,fr;it,3.6,110.9,Other,Other,Europe,2,False,Network Issue,Support ticket for network issue
+T070,es,it;es,4.9,93.1,Employee Inquiries-IT Support,Software,Europe,1,True,General Query,Support ticket for general query
+T071,es,it;fr;de,3.9,112.5,Employee Inquiries-IT Support,Software,Europe,1,False,Security Concern,Support ticket for security concern
+T072,fr,en;it;es,3.9,124.3,Other,Other,Europe,2,False,Billing Question,Support ticket for billing question
+T073,es,de;pt,3.5,127.1,Employee Inquiries-IT Support,Software,Europe,2,False,Update Request,Support ticket for update request
+T074,pt,fr;de;it,3.0,98.7,Employee Inquiries-IT Support,Software,Europe,1,False,Performance Issue,Support ticket for performance issue
+T075,de,de;en,4.3,72.9,Employee Inquiries-IT Support,Software,Americas,1,True,Password Reset,Support ticket for password reset
+T076,fr,de;en;es,3.3,116.8,Employee Inquiries-IT Support,Software,Europe,1,False,Billing Question,Support ticket for billing question
+T077,es,de;it;en,2.5,117.1,Other,Other,Europe,1,False,Password Reset,Support ticket for password reset
+T078,es,es;en,4.5,64.7,Employee Inquiries-IT Support,Software,Europe,2,True,Billing Question,Support ticket for billing question
+T079,en,de;es;it,3.3,108.4,Employee Inquiries-IT Support,Software,Europe,2,False,VPN Access,Support ticket for vpn access
+T080,en,fr;pt;it,3.7,104.9,Employee Inquiries-IT Support,Software,Europe,2,False,Update Request,Support ticket for update request
+T081,de,pt;de;fr,4.3,90.5,Other,Other,Europe,2,True,Hardware Problem,Support ticket for hardware problem
+T082,es,de;en,3.0,111.6,Employee Inquiries-IT Support,Software,Europe,2,False,Account Access,Support ticket for account access
+T083,es,es;pt,5.0,73.3,Other,Other,Europe,1,True,Integration Problem,Support ticket for integration problem
+T084,en,de;es,2.6,122.4,Employee Inquiries-IT Support,Software,Europe,1,False,VPN Access,Support ticket for vpn access
+T085,de,fr;de;en,4.6,69.4,Employee Inquiries-IT Support,Software,Europe,1,True,VPN Access,Support ticket for vpn access
+T086,es,it;en,3.2,119.3,Employee Inquiries-IT Support,Software,Europe,2,False,General Query,Support ticket for general query
+T087,en,es;it;de,3.3,122.7,Employee Inquiries-IT Support,Software,Europe,2,False,Hardware Problem,Support ticket for hardware problem
+T088,es,es;de,4.6,78.4,Other,Other,Europe,1,True,General Query,Support ticket for general query
+T089,fr,en;de,3.9,129.6,Other,Other,Europe,2,False,Integration Problem,Support ticket for integration problem
+T090,de,de;it,4.1,75.3,Employee Inquiries-IT Support,Software,Europe,2,True,Password Reset,Support ticket for password reset
+T091,it,fr;en;pt,3.9,121.1,Other,Other,Europe,2,False,Hardware Problem,Support ticket for hardware problem
+T092,fr,es;it;fr,4.7,88.8,Other,Other,Europe,2,True,Software Install,Support ticket for software install
+T093,en,en;pt;fr,4.7,63.6,Other,Other,Europe,1,True,Account Access,Support ticket for account access
+T094,de,pt;it;fr,3.7,104.0,Employee Inquiries-IT Support,Software,Europe,2,False,License Activation,Support ticket for license activation
+T095,de,en;es;pt,3.8,120.3,Other,Other,Americas,2,False,Data Recovery,Support ticket for data recovery
+T096,en,en;fr;it,4.5,86.9,Employee Inquiries-IT Support,Software,Europe,2,True,Data Recovery,Support ticket for data recovery
+T097,en,de;en,4.6,97.7,Employee Inquiries-IT Support,Software,Europe,2,True,Integration Problem,Support ticket for integration problem
+T098,pt,it;de;en,2.7,128.1,Employee Inquiries-IT Support,Software,Europe,1,False,Account Access,Support ticket for account access
+T099,en,it;pt;de,3.4,120.4,Employee Inquiries-IT Support,Software,Europe,2,False,Security Concern,Support ticket for security concern
+T100,pt,en;fr;es,3.2,128.3,Employee Inquiries-IT Support,Software,Europe,2,False,Data Recovery,Support ticket for data recovery
+T101,en,es;en;de,4.1,68.5,Other,Other,Europe,1,True,License Activation,Support ticket for license activation
+T102,en,pt;es,2.6,121.8,Employee Inquiries-IT Support,Software,Europe,2,False,License Activation,Support ticket for license activation
+T103,de,fr;es,4.0,113.9,Employee Inquiries-IT Support,Software,Europe,2,False,Account Access,Support ticket for account access
+T104,en,pt;fr,2.5,104.3,Employee Inquiries-IT Support,Software,Europe,1,False,VPN Access,Support ticket for vpn access
+T105,es,pt;it;en,3.2,102.8,Other,Other,Europe,2,False,General Query,Support ticket for general query
+T106,es,en;de,3.8,109.9,Other,Other,Europe,1,False,VPN Access,Support ticket for vpn access
+T107,en,en;es,4.3,85.3,Employee Inquiries-IT Support,Software,Europe,2,True,General Query,Support ticket for general query
+T108,es,en;it;es,4.4,95.5,Other,Other,Europe,1,True,Email Setup,Support ticket for email setup
+T109,en,it;fr;pt,3.9,119.0,Employee Inquiries-IT Support,Software,Europe,1,False,Security Concern,Support ticket for security concern
+T110,en,es;pt;en,4.6,82.5,Employee Inquiries-IT Support,Software,Europe,1,True,Security Concern,Support ticket for security concern
+T111,de,fr;pt,3.0,98.6,Employee Inquiries-IT Support,Software,Europe,1,False,Email Setup,Support ticket for email setup
+T112,en,en;fr;es,4.8,93.8,Other,Other,Americas,2,True,Password Reset,Support ticket for password reset
+T113,fr,en;es;fr,4.7,72.4,Employee Inquiries-IT Support,Software,Europe,2,True,Performance Issue,Support ticket for performance issue
+T114,en,en;pt,4.2,76.8,Employee Inquiries-IT Support,Software,Europe,2,True,VPN Access,Support ticket for vpn access
+T115,pt,es;pt,4.0,63.3,Employee Inquiries-IT Support,Software,Europe,2,True,Security Concern,Support ticket for security concern
+T116,en,fr;de,2.7,118.7,Employee Inquiries-IT Support,Software,Europe,1,False,Hardware Problem,Support ticket for hardware problem
+T117,en,en;es,4.3,68.4,Employee Inquiries-IT Support,Software,Europe,1,True,Password Reset,Support ticket for password reset
+T118,es,es;it;de,4.5,69.2,Employee Inquiries-IT Support,Software,Europe,1,True,Performance Issue,Support ticket for performance issue
+T119,de,de;en,4.5,63.1,Employee Inquiries-IT Support,Software,Europe,1,True,Security Concern,Support ticket for security concern
+T120,en,en;fr;es,4.8,84.7,Other,Other,Europe,1,True,Email Setup,Support ticket for email setup
+T121,en,pt;en;de,4.9,89.8,Other,Other,Europe,1,True,Email Setup,Support ticket for email setup
+T122,es,fr;it,3.6,123.7,Employee Inquiries-IT Support,Software,Europe,1,False,Network Issue,Support ticket for network issue
+T123,en,it;en,4.2,90.9,Other,Other,Europe,2,True,Integration Problem,Support ticket for integration problem
+T124,fr,it;fr;es,4.4,78.8,Other,Other,Europe,1,True,Data Recovery,Support ticket for data recovery
+T125,es,de;it;en,2.6,124.1,Other,Other,Europe,2,False,Performance Issue,Support ticket for performance issue
+T126,es,de;pt,3.5,106.3,Employee Inquiries-IT Support,Software,Europe,1,False,Email Setup,Support ticket for email setup
+T127,de,it;en;es,2.6,119.8,Employee Inquiries-IT Support,Software,Americas,2,False,Data Recovery,Support ticket for data recovery
+T128,en,de;it;fr,3.5,96.8,Employee Inquiries-IT Support,Software,Europe,1,False,Performance Issue,Support ticket for performance issue
+T129,en,fr;en,4.6,65.7,Other,Other,Europe,2,True,Performance Issue,Support ticket for performance issue
+T130,en,fr;pt,3.1,122.7,Other,Other,Europe,2,False,VPN Access,Support ticket for vpn access
+T131,fr,pt;fr;en,4.4,67.2,Other,Other,Europe,1,True,Hardware Problem,Support ticket for hardware problem
+T132,it,en;fr,3.8,98.5,Other,Other,Europe,2,False,Software Install,Support ticket for software install
+T133,fr,pt;de,2.7,101.3,Employee Inquiries-IT Support,Software,Europe,2,False,Integration Problem,Support ticket for integration problem
+T134,en,it;es;de,3.4,121.3,Employee Inquiries-IT Support,Software,Europe,1,False,Update Request,Support ticket for update request
+T135,pt,fr;pt,5.0,78.5,Employee Inquiries-IT Support,Software,Europe,1,True,System Error,Support ticket for system error
+T136,de,fr;en,3.5,125.6,Employee Inquiries-IT Support,Software,Europe,2,False,Email Setup,Support ticket for email setup
+T137,en,fr;de,3.9,100.2,Other,Other,Europe,1,False,Integration Problem,Support ticket for integration problem
+T138,pt,de;en,3.1,108.1,Employee Inquiries-IT Support,Software,Europe,1,False,License Activation,Support ticket for license activation
+T139,pt,es;it;en,2.9,124.0,Employee Inquiries-IT Support,Software,Europe,2,False,Integration Problem,Support ticket for integration problem
+T140,fr,en;fr,4.2,66.0,Employee Inquiries-IT Support,Software,Europe,1,True,General Query,Support ticket for general query
+T141,en,en;es,4.4,91.8,Employee Inquiries-IT Support,Software,Europe,2,True,Password Reset,Support ticket for password reset
+T142,fr,it;es,2.9,95.1,Employee Inquiries-IT Support,Software,Europe,1,False,VPN Access,Support ticket for vpn access
+T143,es,en;pt;it,3.1,111.5,Other,Other,Europe,1,False,Password Reset,Support ticket for password reset
+T144,en,fr;es,3.6,117.0,Other,Other,Europe,1,False,Software Install,Support ticket for software install
+T145,en,it;es;de,4.0,111.7,Employee Inquiries-IT Support,Software,Europe,2,False,Integration Problem,Support ticket for integration problem
+T146,en,en;es,4.9,72.6,Employee Inquiries-IT Support,Software,Europe,2,True,Update Request,Support ticket for update request
+T147,en,fr;it,3.8,96.7,Employee Inquiries-IT Support,Software,Europe,2,False,Security Concern,Support ticket for security concern
+T148,pt,de;fr;es,3.2,112.4,Employee Inquiries-IT Support,Software,Europe,2,False,Security Concern,Support ticket for security concern
+T149,en,pt;fr,3.0,97.8,Employee Inquiries-IT Support,Software,Europe,2,False,Security Concern,Support ticket for security concern
+T150,en,fr;de;en,4.7,96.5,Employee Inquiries-IT Support,Software,Europe,2,True,Software Install,Support ticket for software install
+T151,en,fr;pt;es,3.9,100.0,Other,Other,Europe,1,False,VPN Access,Support ticket for vpn access
+T152,en,fr;de;en,4.6,87.2,Employee Inquiries-IT Support,Software,Europe,2,True,Account Access,Support ticket for account access
+T153,es,fr;it;es,5.0,61.0,Employee Inquiries-IT Support,Software,Europe,2,True,Email Setup,Support ticket for email setup
+T154,en,it;de;es,4.0,105.0,Employee Inquiries-IT Support,Software,Europe,1,False,VPN Access,Support ticket for vpn access
+T155,es,en;fr;pt,3.6,114.2,Employee Inquiries-IT Support,Software,Europe,1,False,System Error,Support ticket for system error
+T156,de,en;es,3.7,103.3,Employee Inquiries-IT Support,Software,Europe,1,False,Integration Problem,Support ticket for integration problem
+T157,de,pt;en,2.6,108.9,Employee Inquiries-IT Support,Software,Europe,1,False,Security Concern,Support ticket for security concern
+T158,de,es;fr,3.5,110.7,Employee Inquiries-IT Support,Software,Europe,2,False,System Error,Support ticket for system error
+T159,de,de;pt,4.9,62.2,Employee Inquiries-IT Support,Software,Europe,1,True,License Activation,Support ticket for license activation
+T160,pt,fr;pt,4.9,93.8,Employee Inquiries-IT Support,Software,Europe,1,True,Account Access,Support ticket for account access
+T161,fr,pt;es,3.4,115.3,Employee Inquiries-IT Support,Software,Europe,2,False,License Activation,Support ticket for license activation
+T162,de,en;it,2.6,117.5,Employee Inquiries-IT Support,Software,Europe,2,False,Security Concern,Support ticket for security concern
+T163,fr,de;pt,2.9,128.5,Other,Other,Europe,2,False,General Query,Support ticket for general query
+T164,es,es;de,4.4,78.6,Employee Inquiries-IT Support,Software,Europe,2,True,License Activation,Support ticket for license activation
+T165,fr,de;es;fr,4.5,64.2,Employee Inquiries-IT Support,Software,Europe,1,True,Account Access,Support ticket for account access
+T166,en,de;pt;it,2.9,125.3,Employee Inquiries-IT Support,Software,Europe,1,False,License Activation,Support ticket for license activation
+T167,en,de;pt,3.2,125.8,Employee Inquiries-IT Support,Software,Europe,1,False,Integration Problem,Support ticket for integration problem
+T168,pt,pt;fr,4.0,71.3,Other,Other,Europe,2,True,General Query,Support ticket for general query
+T169,es,de;es,4.9,89.1,Employee Inquiries-IT Support,Software,Europe,1,True,Network Issue,Support ticket for network issue
+T170,en,en;de;pt,4.8,71.2,Other,Other,Americas,1,True,Email Setup,Support ticket for email setup
+T171,en,pt;fr;es,2.8,112.8,Employee Inquiries-IT Support,Software,Europe,1,False,License Activation,Support ticket for license activation
+T172,de,es;pt;it,3.0,116.5,Other,Other,Europe,2,False,General Query,Support ticket for general query
+T173,es,it;pt;fr,3.2,95.6,Employee Inquiries-IT Support,Software,Europe,1,False,General Query,Support ticket for general query
+T174,de,pt;de,4.3,86.2,Employee Inquiries-IT Support,Software,Americas,1,True,Software Install,Support ticket for software install
+T175,es,pt;it,3.7,108.3,Employee Inquiries-IT Support,Software,Europe,1,False,Email Setup,Support ticket for email setup
+T176,en,fr;de;es,3.1,102.1,Employee Inquiries-IT Support,Software,Europe,1,False,Software Install,Support ticket for software install
+T177,fr,pt;fr,5.0,79.1,Other,Other,Europe,1,True,License Activation,Support ticket for license activation
+T178,es,pt;de;es,5.0,71.2,Other,Other,Europe,2,True,General Query,Support ticket for general query
+T179,fr,fr;de;it,4.6,97.4,Employee Inquiries-IT Support,Software,Europe,1,True,Performance Issue,Support ticket for performance issue
+T180,pt,fr;es;it,2.6,128.4,Other,Other,Europe,2,False,Update Request,Support ticket for update request
+T181,en,pt;fr;es,2.7,120.9,Employee Inquiries-IT Support,Software,Europe,2,False,Hardware Problem,Support ticket for hardware problem
+T182,fr,en;de,3.0,111.5,Employee Inquiries-IT Support,Software,Europe,2,False,System Error,Support ticket for system error
+T183,en,de;es;fr,3.0,117.6,Employee Inquiries-IT Support,Software,Europe,1,False,Software Install,Support ticket for software install
+T184,pt,de;es,3.9,96.3,Other,Other,Europe,1,False,General Query,Support ticket for general query
+T185,pt,fr;pt,4.6,97.1,Employee Inquiries-IT Support,Software,Europe,2,True,Update Request,Support ticket for update request
+T186,pt,pt;de,4.3,92.4,Other,Other,Europe,2,True,System Error,Support ticket for system error
+T187,en,fr;pt;es,2.8,125.0,Other,Other,Europe,1,False,VPN Access,Support ticket for vpn access
+T188,en,es;it,3.2,127.8,Employee Inquiries-IT Support,Software,Europe,1,False,Billing Question,Support ticket for billing question
+T189,pt,pt;it;en,4.3,74.4,Employee Inquiries-IT Support,Software,Europe,1,True,System Error,Support ticket for system error
+T190,en,it;en;fr,4.4,68.8,Employee Inquiries-IT Support,Software,Europe,1,True,Data Recovery,Support ticket for data recovery
+T191,en,pt;es;it,3.5,115.9,Employee Inquiries-IT Support,Software,Europe,1,False,Data Recovery,Support ticket for data recovery
+T192,en,en;pt,4.9,68.1,Employee Inquiries-IT Support,Software,Europe,2,True,Integration Problem,Support ticket for integration problem
+T193,en,it;pt,3.2,126.5,Employee Inquiries-IT Support,Software,Europe,1,False,Security Concern,Support ticket for security concern
+T194,es,pt;de,3.5,105.8,Employee Inquiries-IT Support,Software,Europe,1,False,Network Issue,Support ticket for network issue
+T195,es,de;fr,3.6,113.9,Other,Other,Europe,2,False,Update Request,Support ticket for update request
+T196,en,es;it;de,3.1,126.2,Other,Other,Europe,1,False,VPN Access,Support ticket for vpn access
+T197,fr,it;fr,4.1,99.7,Employee Inquiries-IT Support,Software,Europe,2,True,Password Reset,Support ticket for password reset
+T198,de,de;pt;it,4.5,92.9,Employee Inquiries-IT Support,Software,Europe,1,True,Email Setup,Support ticket for email setup
+T199,en,pt;en;es,4.2,64.0,Employee Inquiries-IT Support,Software,Europe,2,True,Software Install,Support ticket for software install
+T200,en,de;it,2.9,102.6,Employee Inquiries-IT Support,Software,Europe,1,False,General Query,Support ticket for general query
+T201,en,pt;it;fr,2.9,125.7,Employee Inquiries-IT Support,Software,Americas,1,False,Billing Question,Support ticket for billing question
+T202,en,it;de,3.3,96.6,Employee Inquiries-IT Support,Software,Europe,1,False,License Activation,Support ticket for license activation
+T203,fr,es;fr;de,4.2,81.5,Employee Inquiries-IT Support,Software,Europe,2,True,Account Access,Support ticket for account access
+T204,de,pt;de,5.0,82.3,Employee Inquiries-IT Support,Software,Europe,1,True,VPN Access,Support ticket for vpn access
+T205,pt,en;pt;es,4.1,75.1,Employee Inquiries-IT Support,Software,Europe,1,True,Network Issue,Support ticket for network issue
+T206,es,fr;en;es,4.9,98.5,Other,Other,Europe,1,True,Hardware Problem,Support ticket for hardware problem
+T207,fr,de;es,3.3,122.1,Employee Inquiries-IT Support,Software,Europe,1,False,Billing Question,Support ticket for billing question
+T208,en,de;en;it,4.8,72.8,Employee Inquiries-IT Support,Software,Europe,1,True,Hardware Problem,Support ticket for hardware problem
+T209,fr,fr;pt,4.9,83.2,Employee Inquiries-IT Support,Software,Europe,1,True,Performance Issue,Support ticket for performance issue
+T210,es,de;pt,3.5,119.0,Other,Other,Europe,2,False,Update Request,Support ticket for update request
